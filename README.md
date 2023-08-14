@@ -6,9 +6,12 @@
 ### <div align="center">I'm Laxya, a full-time full-stack Developer 👨‍💻 working remotely since 2015 🚀 . I help Startups deploy machine learning (Text , Vision and audio ) and blockchain solutions. </div>  
   
 
-- 🌱 I’m currently learning how to optimize large language models and to scale billion parameter machine learning models on cpus.  My latest project is based on real time utility of LLM (LLama 2) , TTS( Text to Speech), STT (Speech to Text) , and Text to Image . Optimizing the models and delivering real time results ahve potential for end user applications.
-  
+- 🌱 I’m currently learning how to optimize large language models and to scale billion parameter machine learning models on CPUs.
 
+- My latest project is based on real time utility of LLM (LLama 2) , TTS( Text to Speech), STT (Speech to Text) , and Text to Image .
+-
+- Optimizing the models and delivering real time results have huge potential for end user applications.
+  
 - ❓ Ask me about anything related to Python , LLM ,Transformers ,  Text to specch , Diffusion models , LORA QLORA , Flash attention.
   
 
